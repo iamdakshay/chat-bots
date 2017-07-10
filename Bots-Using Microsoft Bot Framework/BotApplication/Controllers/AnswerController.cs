@@ -8,7 +8,7 @@ using Microsoft.Bot.Connector;
 namespace BotApplication
 {
     [BotAuthentication]
-    public class MessagesController : ApiController
+    public class AnswerController : ApiController
     {
         /// <summary>
         /// POST: api/Messages
@@ -18,7 +18,7 @@ namespace BotApplication
         {
             if (activity.Type == ActivityTypes.Message)
             {
-                await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
+                await Conversation.SendAsync(activity, () => new Dialogs.AnswerDialog());
             }
             else
             {
