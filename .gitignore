@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Bots-Using Microsoft Bot Framework/AuthenticationWebApp/Web.Release.config
+/Bots-Using Microsoft Bot Framework/AuthenticationWebApp/Web.Debug.config
+/Bots-Using Microsoft Bot Framework/AuthenticationWebApp/Web.config
