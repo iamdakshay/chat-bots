@@ -51,9 +51,7 @@ namespace AuthenticationWebApp.Controllers
             string contextToken = this.Request.Form["SPAppToken"];
             string userName = Convert.ToString(Session["SkypeUserID"]);
 
-            new Mongo().Insert("AccessTokens", new Token(userName, contextToken));
-
-             
+            new Mongo().Insert("ContextTokens", new Token(userName, contextToken));
 
             return View();
         }

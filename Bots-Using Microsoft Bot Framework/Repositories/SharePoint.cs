@@ -25,12 +25,12 @@ namespace Common
         {
             string users = string.Empty;
 
-            Token token = new Mongo().Get<Token>("AccessTokens", "UserName", this._userName);
+            Token token = new Mongo().Get<Token>("ContextTokens", "UserName", this._userName);
 
-            using (ClientContext context = TokenHelper.GetClientContextWithContextToken(_siteUri, token.AccessToken, "localhost:44331"))
+            using (ClientContext context = TokenHelper.GetClientContextWithContextToken(_siteUri, token.ContextToken, "localhost:44331"))
             {
                 CamlQuery query = new CamlQuery();
-                query.ViewXml = "";
+                query.ViewXml = $"<View><Query><Where><Contains><FieldRef Name='Title' /><Value Type='Text'>{searchTermName}</Value></Contains></Where></Query></View>";
                 ListItemCollection peopleDetails = context.Web.Lists.GetByTitle("PeopleDetails").GetItems(query);
                 context.Load(peopleDetails);
                 context.ExecuteQuery();

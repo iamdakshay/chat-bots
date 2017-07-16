@@ -11,12 +11,12 @@ namespace Common.Contracts
     {
         public ObjectId _id;
         public string UserName;
-        public string AccessToken;
+        public string ContextToken;
 
-        public Token(string userName, string accessToken)
+        public Token(string userName, string contextToken)
         {
             UserName = userName;
-            AccessToken = accessToken;
+            ContextToken = contextToken;
         }
     }
 }
