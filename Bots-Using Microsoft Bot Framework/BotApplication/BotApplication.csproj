@@ -15,8 +15,7 @@
     <AssemblyName>Bot Application</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
-    <IISExpressSSLPort>
-    </IISExpressSSLPort>
+    <IISExpressSSLPort>44347</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
     <IISExpressWindowsAuthentication>disabled</IISExpressWindowsAuthentication>
     <IISExpressUseClassicPipelineMode />
@@ -113,6 +112,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="Controllers\PartyRegistrationController.cs" />
     <Compile Include="Controllers\SharePointController.cs" />
     <Compile Include="Controllers\IntelligentController.cs" />
     <Compile Include="Controllers\AnswerController.cs" />
@@ -121,6 +121,7 @@
     <Compile Include="Dialogs\SharePointDialog.cs" />
     <Compile Include="Dialogs\IntelligentDialog.cs" />
     <Compile Include="Dialogs\RootDialog.cs" />
+    <Compile Include="Forms\PartyRegistrationForm.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
