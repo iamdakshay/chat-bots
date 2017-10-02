@@ -1,0 +1,20 @@
+{
+  "name": "order_your_grocery",
+  "version": "1.0.0",
+  "description": "bot will help you to order grocery items",
+  "main": "starter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "microsoft",
+    "bot",
+    "framework"
+  ],
+  "author": "Akshay Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1"
+  }
+}
