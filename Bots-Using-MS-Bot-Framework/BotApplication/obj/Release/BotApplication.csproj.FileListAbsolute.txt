@@ -1,0 +1,42 @@
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Bot Application.dll.config
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Bot Application.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Bot Application.pdb
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Autofac.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Chronic.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Bot.Builder.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Bot.Connector.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Rest.ClientRuntime.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Newtonsoft.Json.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.Net.Http.Formatting.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.Web.Http.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.Web.Http.WebHost.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Autofac.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Bot.Builder.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.Bot.Connector.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\Newtonsoft.Json.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.Net.Http.Formatting.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.Web.Http.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\System.Web.Http.WebHost.xml
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\obj\Release\BotApplication.csprojResolveAssemblyReference.cache
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\obj\Release\Bot Application.dll
+D:\SWAMI\iCodes\GitHub\ChatBots\Bots-Using Microsoft Bot Framework\BotApplication\obj\Release\Bot Application.pdb
