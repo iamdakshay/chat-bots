@@ -9,6 +9,11 @@
     <WebStackScaffolding_LayoutPageFile />
     <IISExpressSSLPort>44331</IISExpressSSLPort>
     <ProjectView>ShowAllFiles</ProjectView>
+    <Use64BitIISExpress />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

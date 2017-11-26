@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Bot.Connector</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Bot.Connector.BotAuthenticationAppBuilderExtensions">
+            <summary>
+            Extension methods to add BotAuthentication capabilities to an HTTP application pipeline.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Bot.Connector.BotAuthenticationMiddleware">
+            <summary>
+            Bot authentication middleware. <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1"/> for more information.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Bot.Connector.BotAuthenticationHandler">
+            <summary>
+            Bot authentication hanlder used by <see cref="T:Microsoft.Bot.Connector.BotAuthenticationMiddleware"/>.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Bot.Connector.BotAuthenticationOptions">
+            <summary>
+            Options for <see cref="T:Microsoft.Bot.Connector.BotAuthenticationMiddleware"/>.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Bot.Connector.BotAuthenticationOptions.CredentialProvider">
+            <summary>
+            The <see cref="T:Microsoft.Bot.Connector.ICredentialProvider"/> used for authentication.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Bot.Connector.BotAuthenticationOptions.OpenIdConfiguration">
+            <summary>
+            The OpenId configuation.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Bot.Connector.BotAuthenticationOptions.DisableEmulatorTokens">
+            <summary>
+            Flag indicating if emulator tokens should be disabled.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Bot.Connector.BotAuthenticationOptions.SaveToken">
+            <summary>
+            Flag indicating if <see cref="T:Microsoft.Bot.Connector.BotAuthenticationHandler"/> should be stored in 
+            the returned <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationTicket"/>. 
+            </summary>
+        </member>
+    </members>
+</doc>

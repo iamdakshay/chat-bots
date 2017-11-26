@@ -5,3 +5,10 @@
 /Bots-Using Microsoft Bot Framework/AuthenticationWebApp/Web.Release.config
 /Bots-Using Microsoft Bot Framework/AuthenticationWebApp/Web.Debug.config
 /Bots-Using Microsoft Bot Framework/AuthenticationWebApp/Web.config
+/Using-Microsoft-Bot-Framework/DotNet/AuthenticationWebApp/bin
+/Using-Microsoft-Bot-Framework/DotNet/AuthenticationWebApp/obj/Debug/AuthenticationWebApp.csproj.CoreCompileInputs.cache
+/Using-Microsoft-Bot-Framework/DotNet/AuthenticationWebApp/obj/Debug/AuthenticationWebApp.csproj.FileListAbsolute.txt
+/Using-Microsoft-Bot-Framework/DotNet/AuthenticationWebApp/obj/Debug/build.force
+/Using-Microsoft-Bot-Framework/DotNet/AuthenticationWebApp/obj/Debug/AuthenticationWebApp.csprojResolveAssemblyReference.cache
+/Using-Microsoft-Bot-Framework/DotNet/Repositories/bin/Debug
+/Using-Microsoft-Bot-Framework/DotNet/BotApplication/bin

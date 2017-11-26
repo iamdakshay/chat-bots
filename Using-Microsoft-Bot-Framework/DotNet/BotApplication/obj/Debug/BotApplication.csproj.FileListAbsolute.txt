@@ -82,3 +82,62 @@ D:\SWAMI\iCodes\GitHub\ChatBots\FAQs Answering Bot\BotApplication\bin\zh-hans\Mi
 D:\SWAMI\iCodes\GitHub\ChatBots\FAQs Answering Bot\BotApplication\obj\Debug\BotApplication.csprojResolveAssemblyReference.cache
 D:\SWAMI\iCodes\GitHub\ChatBots\FAQs Answering Bot\BotApplication\obj\Debug\Bot Application.dll
 D:\SWAMI\iCodes\GitHub\ChatBots\FAQs Answering Bot\BotApplication\obj\Debug\Bot Application.pdb
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\obj\Debug\BotApplication.csprojResolveAssemblyReference.cache
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\obj\Debug\BotApplication.csproj.CoreCompileInputs.cache
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Bot Application.dll.config
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Bot Application.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Bot Application.pdb
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Autofac.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Chronic.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Common.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Bot.Builder.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Bot.Connector.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Newtonsoft.Json.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.Web.Http.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.SharePoint.Client.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\MongoDB.Driver.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\MongoDB.Bson.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\MongoDB.Driver.Core.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Common.pdb
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Autofac.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Bot.Builder.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.Bot.Connector.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Newtonsoft.Json.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.Web.Http.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\obj\Debug\Bot Application.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\obj\Debug\Bot Application.pdb
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Common.dll.config
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\akshay.deshmukh\source\repos\chat-bots\Using-Microsoft-Bot-Framework\DotNet\BotApplication\bin\Microsoft.IdentityModel.Tokens.xml
