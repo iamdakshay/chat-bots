@@ -79,6 +79,8 @@
       <HintPath>..\packages\Microsoft.Rest.ClientRuntime.2.3.2\lib\net45\Microsoft.Rest.ClientRuntime.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Microsoft.SharePoint.Client, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SharePoint.Client.Runtime, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Win32.Primitives">
       <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
     </Reference>
@@ -134,12 +136,14 @@
     <Compile Include="Constants.cs" />
     <Compile Include="Controllers\PartyRegistrationController.cs" />
     <Compile Include="Controllers\AzureController.cs" />
+    <Compile Include="Controllers\SharePointBotController.cs" />
     <Compile Include="Controllers\SharePointController.cs" />
     <Compile Include="Controllers\IntelligentController.cs" />
     <Compile Include="Controllers\AnswerController.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
     <Compile Include="Dialogs\AnswerDialog.cs" />
     <Compile Include="Dialogs\AzureDialog.cs" />
+    <Compile Include="Dialogs\SharePointBotDialog.cs" />
     <Compile Include="Dialogs\SharePointDialog.cs" />
     <Compile Include="Dialogs\IntelligentDialog.cs" />
     <Compile Include="Dialogs\RootDialog.cs" />
@@ -151,8 +155,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <None Include="Properties\PublishProfiles\9aba86d4-0ee0-4-231-b9ee - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\9aba86d4-0ee0-4-231-b9ee - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\BotAppForPartyRegistration - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointBotWebApi - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -166,6 +170,7 @@
       <Name>Common</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

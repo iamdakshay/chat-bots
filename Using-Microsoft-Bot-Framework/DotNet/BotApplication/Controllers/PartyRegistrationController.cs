@@ -20,6 +20,12 @@ namespace BotApplication
         {
             if (activity.Type == ActivityTypes.Message)
             {
+                ConnectorClient connector = new ConnectorClient(new System.Uri(activity.ServiceUrl));
+                Activity isTypingReply = activity.CreateReply("typing...");
+                isTypingReply.Type = ActivityTypes.Typing;
+                await connector.Conversations.ReplyToActivityAsync(isTypingReply);
+                string resourcesPath = this.Url.Request.RequestUri.AbsoluteUri.Replace(@"api/azure", "");
+
                 await Conversation.SendAsync(activity, MakeForm);
             }
             else
