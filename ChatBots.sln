@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v3", "v3", "{48536513-6C14-4190-8362-90AEFAB52C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationApp", "using-microsoft-botbuilder-sdk-v3\dotnet\AuthenticationWebApp\AuthenticationApp.csproj", "{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotApp", "using-microsoft-botbuilder-sdk-v3\dotnet\BotApplication\BotApp.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "using-microsoft-botbuilder-sdk-v3\dotnet\Common\Common.csproj", "{4E6B76DF-316C-4751-829B-A15357CD0AF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v4", "v4", "{BA32D38F-98F3-4E84-BACC-B0C7BA3C1DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F} = {48536513-6C14-4190-8362-90AEFAB52C09}
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4} = {48536513-6C14-4190-8362-90AEFAB52C09}
+		{4E6B76DF-316C-4751-829B-A15357CD0AF9} = {48536513-6C14-4190-8362-90AEFAB52C09}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA673C5-4F97-4EA7-8959-333B7E872CC4}
+	EndGlobalSection
+EndGlobal

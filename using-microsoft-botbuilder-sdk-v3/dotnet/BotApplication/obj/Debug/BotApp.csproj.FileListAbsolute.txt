@@ -1,0 +1,2 @@
+D:\SWAMI\github\chat-bots\using-microsoft-botbuilder-sdk-v3\dotnet\BotApplication\obj\Debug\BotApp.csprojAssemblyReference.cache
+D:\SWAMI\github\chat-bots\using-microsoft-botbuilder-sdk-v3\dotnet\BotApplication\obj\Debug\BotApp.csproj.CoreCompileInputs.cache
