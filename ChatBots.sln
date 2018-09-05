@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v3", "v3", "{48536513-6C14-4190-8362-90AEFAB52C09}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "using-botbuilder-sdk-v3", "using-botbuilder-sdk-v3", "{48536513-6C14-4190-8362-90AEFAB52C09}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationApp", "using-microsoft-botbuilder-sdk-v3\dotnet\AuthenticationWebApp\AuthenticationApp.csproj", "{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F}"
 EndProject
@@ -11,7 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotApp", "using-microsoft-b
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "using-microsoft-botbuilder-sdk-v3\dotnet\Common\Common.csproj", "{4E6B76DF-316C-4751-829B-A15357CD0AF9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v4", "v4", "{BA32D38F-98F3-4E84-BACC-B0C7BA3C1DAE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "using-botbuilder-sdk-v4", "using-botbuilder-sdk-v4", "{BA32D38F-98F3-4E84-BACC-B0C7BA3C1DAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBots.V4.Shared", "using-microsoft-botbuilder-sdk-v4\dotnet\ChatBots.V4.Shared\ChatBots.V4.Shared.csproj", "{E15397BF-2F46-4C90-8B0B-3E54CDE919B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBots.V4.PartyRegistrationBot", "ChatBots.V4.PartyRegistrationBot\ChatBots.V4.PartyRegistrationBot.csproj", "{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Support-Bot", "..\..\Jobin-Joseph\Support-Bot\Support-Bot.csproj", "{86C9B9D9-0713-4C20-9F09-4411DFD5358E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,18 @@ Global
 		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E6B76DF-316C-4751-829B-A15357CD0AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15397BF-2F46-4C90-8B0B-3E54CDE919B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15397BF-2F46-4C90-8B0B-3E54CDE919B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15397BF-2F46-4C90-8B0B-3E54CDE919B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15397BF-2F46-4C90-8B0B-3E54CDE919B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +57,8 @@ Global
 		{17FB00ED-8E03-4EEB-B0A1-E05F4932AB4F} = {48536513-6C14-4190-8362-90AEFAB52C09}
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4} = {48536513-6C14-4190-8362-90AEFAB52C09}
 		{4E6B76DF-316C-4751-829B-A15357CD0AF9} = {48536513-6C14-4190-8362-90AEFAB52C09}
+		{E15397BF-2F46-4C90-8B0B-3E54CDE919B1} = {BA32D38F-98F3-4E84-BACC-B0C7BA3C1DAE}
+		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38} = {BA32D38F-98F3-4E84-BACC-B0C7BA3C1DAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6EA673C5-4F97-4EA7-8959-333B7E872CC4}
