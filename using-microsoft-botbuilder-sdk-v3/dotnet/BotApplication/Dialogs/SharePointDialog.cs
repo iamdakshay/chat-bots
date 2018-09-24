@@ -20,7 +20,7 @@ namespace BotApplication.Dialogs
         public SharePointDialog(Activity activity)
         {
             userName = activity.From.Name;
-            msgReceivedDate = activity.Timestamp ?? DateTime.Now;
+            msgReceivedDate = activity.Timestamp.Value.DateTime;
         }
 
         [LuisIntent("")]
