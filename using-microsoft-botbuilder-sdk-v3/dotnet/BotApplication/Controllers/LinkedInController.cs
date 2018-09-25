@@ -1,15 +1,16 @@
-﻿using System.Net;
+﻿using Microsoft.Bot.Builder.Dialogs;
+using Microsoft.Bot.Connector;
+using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
-using Microsoft.Bot.Builder.Dialogs;
-using Microsoft.Bot.Connector;
 
 namespace BotApplication
 {
     [BotAuthentication]
     public class LinkedInController : ApiController
     {
+
         /// <summary>
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
@@ -50,9 +51,7 @@ namespace BotApplication
             {
                 // Handle knowing tha the user is typing
             }
-            else if (message.Type == ActivityTypes.Ping)
-            {
-            }
+
 
             return null;
         }

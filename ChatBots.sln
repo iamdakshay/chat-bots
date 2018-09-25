@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBots.V4.Shared", "using
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBots.V4.PartyRegistrationBot", "ChatBots.V4.PartyRegistrationBot\ChatBots.V4.PartyRegistrationBot.csproj", "{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Support-Bot", "..\..\Jobin-Joseph\Support-Bot\Support-Bot.csproj", "{86C9B9D9-0713-4C20-9F09-4411DFD5358E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,10 +43,6 @@ Global
 		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB798863-02EE-4CE9-988F-BC5B0BB1AD38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86C9B9D9-0713-4C20-9F09-4411DFD5358E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

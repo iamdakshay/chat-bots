@@ -87,6 +87,10 @@
   <ItemGroup>
     <Compile Include="Contracts.cs" />
     <Compile Include="Helper.cs" />
+    <Compile Include="LinkedIn\ILinkedInService.cs" />
+    <Compile Include="LinkedIn\LinkedInService.cs" />
+    <Compile Include="LinkedIn\LinkedInConstants.cs" />
+    <Compile Include="LinkedIn\Models.cs" />
     <Compile Include="SharePoint.cs" />
     <Compile Include="Mongo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
